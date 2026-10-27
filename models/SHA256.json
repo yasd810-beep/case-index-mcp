@@ -1,0 +1,5 @@
+{
+  "models/rapidocr/cyrillic_v5_rec_mobile.onnx": "5371ee1ddaa7983cc62d0818d99e982b6804638c85e4f960d59a574094e172e5",
+  "models/rapidocr/ppocrv5_cyrillic_dict.txt": "db40aa52ceb112055be80c694afdf655d5d2c4f7873704524cc16a447ca913ba",
+  "models/rapidocr/ppocr_v5_det_mobile.onnx": "a431985659dc921974177a95adcfbb90fd9e51989a5e04d70d0b75f597b6e61d"
+}

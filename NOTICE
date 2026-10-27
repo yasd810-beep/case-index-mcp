@@ -1,0 +1,14 @@
+Case Index MCP
+Copyright 2026 Case Index MCP contributors
+
+This product includes PaddleOCR model files and a recognition dictionary under
+models/rapidocr/. PaddleOCR is licensed under the Apache License, Version 2.0.
+
+PaddleOCR copyright notice:
+Copyright (c) 2016 PaddlePaddle Authors. All Rights Reserved.
+
+Upstream project:
+https://github.com/PaddlePaddle/PaddleOCR
+
+The bundled model files are PP-OCRv5 mobile detection and Cyrillic recognition
+models. Their integrity hashes are recorded in models/SHA256.json.

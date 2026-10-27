@@ -1,0 +1,4 @@
+-r requirements.txt
+paddleocr==3.7.0
+paddlepaddle==3.2.2
+paddlex==3.7.2
